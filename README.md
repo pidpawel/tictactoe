@@ -1,4 +1,4 @@
-tictactow
+Tictactoe
 =========
 
-Simple university project
+Extremely simple university project
